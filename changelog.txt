@@ -1,0 +1,11 @@
+-----------------------------------------
+Version 0.1.0
+Changes based on FFF-304
+~Basic Processing now only produces petroleum-gas, but does so at a 25% boost
+~Flamethrower ammo now takes petroleum-gas instead of heavy/light-oil (Set to 100 because value not stated)
+-Construction and Logistics Robotics research is now gated by blue science
+-Laser Turret now gated by blue science
+
+?Did not add in Laser Turret damage modifier, as that depends on a bugfix
+?Did not add the inserter delay, as I don't believe that's possible
+?Did not add the Oil Refinery fluidbox change, as I don't think I can
